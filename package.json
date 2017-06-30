@@ -1,0 +1,25 @@
+{
+  "name": "bedrock-ledger-context",
+  "version": "0.3.6-0",
+  "description": "Bedrock ledger",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-ledger-context",
+  "peerDependencies": {
+    "bedrock": "^1.2.4"
+  },
+  "engines": {
+    "node": ">=6.3.0"
+  }
+}
