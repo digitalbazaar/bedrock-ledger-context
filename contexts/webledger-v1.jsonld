@@ -23,7 +23,7 @@
     "ProofOfSignature2017": "wl:ProofOfSignature2017",
     "ProofOfWork2016": "wl:ProofOfWork2016",
     "SequentialList": "wl:SequentialList",
-    "UnilateralConsensus2017": "wl:UnilateralConsensus2017"
+    "UnilateralConsensus2017": "wl:UnilateralConsensus2017",
 
     "approvedSigner": "wl:approvedSigner",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
