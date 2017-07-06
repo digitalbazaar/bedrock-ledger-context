@@ -24,10 +24,10 @@
     "ProofOfWork2016": "wl:ProofOfWork2016",
     "SequentialList": "wl:SequentialList",
     "UnilateralConsensus2017": "wl:UnilateralConsensus2017",
-
     "approvedSigner": "wl:approvedSigner",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "comment": "rdfs:comment",
+    "consensusEventGuard": "wl:consensusEventGuard",
     "consensusMethod": "wl:consensusMethod",
     "created": {"@id": "dc:created", "@type": "xsd:dateTime"},
     "creator": {"@id": "dc:creator", "@type": "@id"},
@@ -36,7 +36,8 @@
     "digestValue": "sec:digestValue",
     "domain": "sec:domain",
     "event": "wl:event",
-    "eventGuard": "wl:eventGuard",
+    "eventFilter": "wl:eventFilter",
+    "eventType": "wl:eventType",
     "expires": {"@id": "sec:expiration", "@type": "xsd:dateTime"},
     "input": "wl:input",
     "label": "rdfs:label",
@@ -56,6 +57,7 @@
     "supportedEventType": "wl:supportedEventType",
     "signature": "sec:signature",
     "signatureAlgorithm": "sec:signatureAlgorithm",
-    "signatureValue": "sec:signatureValue"
+    "signatureValue": "sec:signatureValue",
+    "validationEventGuard": "wl:validationEventGuard"
   }
 }
