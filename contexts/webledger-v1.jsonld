@@ -27,7 +27,6 @@
     "approvedSigner": "wl:approvedSigner",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "comment": "rdfs:comment",
-    "consensusEventGuard": "wl:consensusEventGuard",
     "consensusMethod": "wl:consensusMethod",
     "created": {"@id": "dc:created", "@type": "xsd:dateTime"},
     "creator": {"@id": "dc:creator", "@type": "@id"},
@@ -38,6 +37,7 @@
     "event": "wl:event",
     "eventFilter": "wl:eventFilter",
     "eventType": "wl:eventType",
+    "eventValidator": "wl:eventValidator",
     "expires": {"@id": "sec:expiration", "@type": "xsd:dateTime"},
     "input": "wl:input",
     "label": "rdfs:label",
@@ -57,7 +57,6 @@
     "supportedEventType": "wl:supportedEventType",
     "signature": "sec:signature",
     "signatureAlgorithm": "sec:signatureAlgorithm",
-    "signatureValue": "sec:signatureValue",
-    "validationEventGuard": "wl:validationEventGuard"
+    "signatureValue": "sec:signatureValue"
   }
 }
