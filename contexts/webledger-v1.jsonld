@@ -53,6 +53,7 @@
     "privateKeyPem": "sec:privateKeyPem",
     "publicKey": {"@id": "sec:publicKey", "@type": "@id"},
     "publicKeyPem": "sec:publicKeyPem",
+    "requireEventValidation": "wl:requireEventValidation",
     "revoked": {"@id": "sec:revoked", "@type": "xsd:dateTime"},
     "supportedEventType": "wl:supportedEventType",
     "signature": "sec:signature",
