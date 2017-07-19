@@ -25,6 +25,7 @@
     "SequentialList": "wl:SequentialList",
     "UnilateralConsensus2017": "wl:UnilateralConsensus2017",
     "approvedSigner": "wl:approvedSigner",
+    "blockHeight": "wl:blockHeight",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "comment": "rdfs:comment",
     "consensusMethod": "wl:consensusMethod",
@@ -42,6 +43,7 @@
     "input": "wl:input",
     "label": "rdfs:label",
     "ledger": "wl:ledger",
+    "manifestHash": "wl:manifestHash",
     "minimumSignaturesRequired": "wl:minimumSignaturesRequired",
     "nonce": "sec:nonce",
     "normalizationAlgorithm": "sec:normalizationAlgorithm",
@@ -53,11 +55,14 @@
     "privateKeyPem": "sec:privateKeyPem",
     "publicKey": {"@id": "sec:publicKey", "@type": "@id"},
     "publicKeyPem": "sec:publicKeyPem",
+    "recommendedElectors": "wl:recommendedElectors",
     "requireEventValidation": "wl:requireEventValidation",
     "revoked": {"@id": "sec:revoked", "@type": "xsd:dateTime"},
     "supportedEventType": "wl:supportedEventType",
     "signature": "sec:signature",
     "signatureAlgorithm": "sec:signatureAlgorithm",
-    "signatureValue": "sec:signatureValue"
+    "signatureValue": "sec:signatureValue",
+    "voter": "wl:voter",
+    "voteRound": "wl:voteRound"
   }
 }
