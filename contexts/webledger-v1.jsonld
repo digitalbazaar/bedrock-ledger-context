@@ -55,14 +55,14 @@
     "privateKeyPem": "sec:privateKeyPem",
     "publicKey": {"@id": "sec:publicKey", "@type": "@id"},
     "publicKeyPem": "sec:publicKeyPem",
-    "recommendedElectors": "wl:recommendedElectors",
+    "recommendedElector": {"@id": "wl:recommendedElectors", "@container": "@set"},
     "requireEventValidation": "wl:requireEventValidation",
     "revoked": {"@id": "sec:revoked", "@type": "xsd:dateTime"},
     "supportedEventType": "wl:supportedEventType",
     "signature": "sec:signature",
     "signatureAlgorithm": "sec:signatureAlgorithm",
     "signatureValue": "sec:signatureValue",
-    "voter": "wl:voter",
-    "voteRound": "wl:voteRound"
+    "voteRound": {"@id": "wl:voteRound", "@type": "xsd:integer"},
+    "voter": {"@id": "wl:voteRound", "@type": "@id"}
   }
 }
