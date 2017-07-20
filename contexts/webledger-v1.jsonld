@@ -29,6 +29,7 @@
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "comment": "rdfs:comment",
     "consensusMethod": {"@id": "wl:consensusMethod", "@type": "@id"},
+    "consensusPhase": "wl:consensusPhase",
     "created": {"@id": "dc:created", "@type": "xsd:dateTime"},
     "creator": {"@id": "dc:creator", "@type": "@id"},
     "description": "schema:description",
