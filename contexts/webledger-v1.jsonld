@@ -12,6 +12,8 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
 
     "Config": "wl:Config",
+    "Continuity2017": "wl:Continuity2017",
+    "Continuity2017Peer": "wl:Continuity2017Peer",
     "Create": "wl:Create",
     "CryptographicKey": "sec:Key",
     "GraphSignature2012": "sec:GraphSignature2012",
@@ -28,7 +30,7 @@
     "blockHeight": "wl:blockHeight",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "comment": "rdfs:comment",
-    "consensusMethod": {"@id": "wl:consensusMethod", "@type": "@id"},
+    "consensusMethod": {"@id": "wl:consensusMethod", "@type": "@vocab"},
     "consensusPhase": "wl:consensusPhase",
     "created": {"@id": "dc:created", "@type": "xsd:dateTime"},
     "creator": {"@id": "dc:creator", "@type": "@id"},
