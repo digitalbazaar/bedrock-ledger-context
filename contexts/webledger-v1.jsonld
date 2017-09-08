@@ -47,6 +47,7 @@
     "input": {"@id": "wl:input", "@type": "@id"},
     "label": "rdfs:label",
     "ledger": {"@id": "wl:ledger", "@type": "@id"},
+    "ledgerConfiguration": {"@id": "wl:ledgerConfiguration", "@type": "@id"},
     "manifestHash": "wl:manifestHash",
     "minimumSignaturesRequired": "wl:minimumSignaturesRequired",
     "nonce": "sec:nonce",
