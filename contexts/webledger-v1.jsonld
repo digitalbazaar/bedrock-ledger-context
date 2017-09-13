@@ -1,5 +1,6 @@
 {
   "@context": {
+    "@version": 1.1,
     "id": "@id",
     "type": "@type",
 
@@ -44,7 +45,7 @@
     "eventType": "wl:eventType",
     "eventValidator": {"@id": "wl:eventValidator", "@type": "@id"},
     "expires": {"@id": "sec:expiration", "@type": "xsd:dateTime"},
-    "input": {"@id": "wl:input", "@type": "@id"},
+    "input": {"@id": "wl:input", "@type": "@id", "@container": ["@graph", "@set"]},
     "label": "rdfs:label",
     "ledger": {"@id": "wl:ledger", "@type": "@id"},
     "ledgerConfiguration": {"@id": "wl:ledgerConfiguration", "@type": "@id"},
