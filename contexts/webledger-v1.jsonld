@@ -64,10 +64,11 @@
     "recommendedElector": {"@id": "wl:recommendedElectors", "@container": "@set"},
     "requireEventValidation": "wl:requireEventValidation",
     "revoked": {"@id": "sec:revoked", "@type": "xsd:dateTime"},
-    "supportedEventType": "wl:supportedEventType",
+    "seeAlso": {"@id": "rdfs:seeAlso", "@type": "@id"},
     "signature": "sec:signature",
     "signatureAlgorithm": "sec:signatureAlgorithm",
     "signatureValue": "sec:signatureValue",
+    "supportedEventType": "wl:supportedEventType",
     "voteRound": {"@id": "wl:voteRound", "@type": "xsd:integer"},
     "voter": {"@id": "wl:voteRound", "@type": "@id"}
   }
