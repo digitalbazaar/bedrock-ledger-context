@@ -63,6 +63,8 @@
     "previousBlockHash": "wl:previousBlockHash",
     "privateKey": {"@id": "sec:privateKey", "@type": "@id"},
     "privateKeyPem": "sec:privateKeyPem",
+    "proofAlgorithm": "sec:proofAlgorithm",
+    "proofValue": "sec:proofValue",
     "publicKey": {"@id": "sec:publicKey", "@type": "@id", "@container": "@set"},
     "publicKeyPem": "sec:publicKeyPem",
     "recommendedElector": {"@id": "wl:recommendedElectors", "@container": "@set"},
