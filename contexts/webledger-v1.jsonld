@@ -17,6 +17,7 @@
     "Continuity2017Peer": "wl:Continuity2017Peer",
     "Create": "wl:Create",
     "CryptographicKey": "sec:Key",
+    "EquihashProof2017": "sec:EquihashProof2017",
     "GraphSignature2012": "sec:GraphSignature2012",
     "Identity": "identity:Identity",
     "LinkedDataSignature2015": "sec:LinkedDataSignature2015",
