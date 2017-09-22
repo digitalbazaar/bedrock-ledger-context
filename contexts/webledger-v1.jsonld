@@ -56,6 +56,7 @@
     "ledgerConfiguration": {"@id": "wl:ledgerConfiguration", "@type": "@id"},
     "manifestHash": "wl:manifestHash",
     "minimumSignaturesRequired": "wl:minimumSignaturesRequired",
+    "name": "schema:name",
     "nonce": "sec:nonce",
     "normalizationAlgorithm": "sec:normalizationAlgorithm",
     "operation": "wl:operation",
