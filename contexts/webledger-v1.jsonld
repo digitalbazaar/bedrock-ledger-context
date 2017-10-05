@@ -45,6 +45,7 @@
     "domain": "sec:domain",
     "election": {"@id": "wl:election", "@container": "@set"},
     "electionResult": {"@id": "wl:electionResults", "@container": "@set"},
+    "electorCount": {"@id": "wl:electorCount", "@type": "xsd:integer"},
     "equihashParameterK": {"@id": "sec:equihashParameterK", "@type": "xsd:integer"},
     "equihashParameterN": {"@id": "sec:equihashParameterN", "@type": "xsd:integer"},
     "event": {"@id": "wl:event", "@container": "@set"},
