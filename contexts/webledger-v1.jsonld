@@ -48,7 +48,7 @@
     "electorCount": {"@id": "wl:electorCount", "@type": "xsd:integer"},
     "equihashParameterK": {"@id": "sec:equihashParameterK", "@type": "xsd:integer"},
     "equihashParameterN": {"@id": "sec:equihashParameterN", "@type": "xsd:integer"},
-    "event": {"@id": "wl:event", "@type": "@id", "@container": "@set"},
+    "event": {"@id": "wl:event", "@type": "@id", "@container": ["@graph", "@set"]},
     "eventFilter": {"@id": "wl:eventFilter", "@type": "@id"},
     "eventHash": "wl:eventHash",
     "eventType": "wl:eventType",
