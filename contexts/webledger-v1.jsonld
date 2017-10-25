@@ -15,6 +15,7 @@
     "Config": "wl:Config",
     "Continuity2017": "wl:Continuity2017",
     "Continuity2017Peer": "wl:Continuity2017Peer",
+    "ContinuityMergeEvent": "wl:ContinuityMergeEvent",
     "Create": "wl:Create",
     "CryptographicKey": "sec:Key",
     "EquihashProof2017": "sec:EquihashProof2017",
@@ -65,6 +66,7 @@
     "normalizationAlgorithm": "sec:normalizationAlgorithm",
     "operation": "wl:operation",
     "owner": {"@id": "sec:owner", "@type": "@id"},
+    "parentHash": "wl:parentHash",
     "previousBlock": "wl:previousBlock",
     "previousBlockHash": "wl:previousBlockHash",
     "privateKey": {"@id": "sec:privateKey", "@type": "@id"},
@@ -81,6 +83,7 @@
     "signatureAlgorithm": "sec:signatureAlgorithm",
     "signatureValue": "sec:signatureValue",
     "supportedEventType": "wl:supportedEventType",
+    "treeHash": "wl:treeHash",
     "voteRound": {"@id": "wl:voteRound", "@type": "xsd:integer"},
     "voter": {"@id": "wl:voteRound", "@type": "@id"}
   }
