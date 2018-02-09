@@ -35,7 +35,6 @@
     "WebLedgerEventBlock": "wl:WebLedgerEventBlock",
     "WebLedgerRecord": "wl:WebLedgerRecord",
     "approvedSigner": "wl:approvedSigner",
-    "authenticationCredential": {"@id": "sec:authenticationCredential", "@type": "@id", "@container": "@set"},
     "blockHeight": "wl:blockHeight",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "comment": "rdfs:comment",

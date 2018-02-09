@@ -27,7 +27,6 @@
     "addressCountry": "schema:addressCountry",
     "addressLocality": "schema:addressLocality",
     "addressRegion": "schema:addressRegion",
-    "authenticationCredential": {"@id": "sec:authenticationCredential", "@type": "@id", "@container": "@set"},
     "comment": "rdfs:comment",
     "created": {"@id": "dc:created", "@type": "xsd:dateTime"},
     "creator": {"@id": "dc:creator", "@type": "@id"},

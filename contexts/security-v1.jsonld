@@ -11,7 +11,6 @@
     "GraphSignature2012": "sec:GraphSignature2012",
     "LinkedDataSignature2015": "sec:LinkedDataSignature2015",
     "CryptographicKey": "sec:Key",
-    "authenticationCredential": {"@id": "sec:authenticationCredential", "@type": "@id", "@container": "@set"},
     "authenticationTag": "sec:authenticationTag",
     "cipherAlgorithm": "sec:cipherAlgorithm",
     "cipherData": "sec:cipherData",
