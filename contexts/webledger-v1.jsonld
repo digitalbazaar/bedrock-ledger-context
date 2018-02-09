@@ -87,7 +87,6 @@
     "signatureValue": "sec:signatureValue",
     "supportedEventType": "wl:supportedEventType",
     "treeHash": "wl:treeHash",
-    "voteRound": {"@id": "wl:voteRound", "@type": "xsd:integer"},
-    "voter": {"@id": "wl:voteRound", "@type": "@id"}
+    "voter": {"@id": "wl:voter", "@type": "@id"}
   }
 }
