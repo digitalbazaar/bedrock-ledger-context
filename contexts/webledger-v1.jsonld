@@ -74,7 +74,7 @@
     "privateKeyPem": "sec:privateKeyPem",
     "proof": {"@id": "sec:proof", "@type": "@id", "@container": "@graph"},
     "proofAlgorithm": "sec:proofAlgorithm",
-    "proofPurpose": {"@id": "sec:proofPurpose", "@type": "@vocab"}
+    "proofPurpose": {"@id": "sec:proofPurpose", "@type": "@vocab"},
     "publicKey": {"@id": "sec:publicKey", "@type": "@id", "@container": "@set"},
     "publicKeyPem": "sec:publicKeyPem",
     "record": {"@id": "wl:record", "@type": "@id", "@container": ["@graph", "@set"]},
