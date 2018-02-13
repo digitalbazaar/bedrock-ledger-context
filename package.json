@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-context",
   "peerDependencies": {
-    "bedrock": "digitalbazaar/bedrock#jsonld-1.1"
+    "bedrock": "^1.8.0"
   },
   "engines": {
     "node": ">=6.3.0"
