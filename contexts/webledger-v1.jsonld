@@ -21,7 +21,7 @@
     "DeleteWebLedgerRecord": "wl:DeleteWebLedgerRecord",
     "CryptographicKey": "sec:Key",
     "Ed25519Signature2018": "sec:Ed25519Signature2018",
-    "EquihashProof2017": "sec:EquihashProof2017",
+    "EquihashProof2018": "sec:EquihashProof2018",
     "GraphSignature2012": "sec:GraphSignature2012",
     "Identity": "identity:Identity",
     "LinkedDataSignature2015": "sec:LinkedDataSignature2015",
@@ -76,6 +76,7 @@
     "proof": {"@id": "sec:proof", "@type": "@id", "@container": "@graph"},
     "proofAlgorithm": "sec:proofAlgorithm",
     "proofPurpose": {"@id": "sec:proofPurpose", "@type": "@vocab"},
+    "proofValue": "sec:proofValue"
     "publicKey": {"@id": "sec:publicKey", "@type": "@id", "@container": "@set"},
     "publicKeyBase58": "sec:publicKeyBase58",
     "publicKeyPem": "sec:publicKeyPem",
