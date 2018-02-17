@@ -36,6 +36,7 @@
     "WebLedgerConfigurationEvent": "wl:WebLedgerConfigurationEvent",
     "WebLedgerEvent": "wl:WebLedgerEvent",
     "WebLedgerEventBlock": "wl:WebLedgerEventBlock",
+    "WebLedgerOperationEvent": "wl:WebLedgerOperationEvent",
     "WebLedgerRecord": "wl:WebLedgerRecord",
     "ValidatorFilterByType": "wl:ValidatorFilterByType",
     "approvedSigner": "wl:approvedSigner",
