@@ -83,7 +83,7 @@
     "publicKeyBase58": "sec:publicKeyBase58",
     "publicKeyPem": "sec:publicKeyPem",
     "record": {"@id": "wl:record", "@type": "@id", "@container": ["@graph", "@set"]},
-    "recommendedElector": {"@id": "wl:recommendedElectors", "@container": "@set"},
+    "recommendedElector": {"@id": "wl:recommendedElector", "@container": "@set"},
     "requiredProof": "sec:requiredProof",
     "revoked": {"@id": "sec:revoked", "@type": "xsd:dateTime"},
     "seeAlso": {"@id": "rdfs:seeAlso", "@type": "@id"},
