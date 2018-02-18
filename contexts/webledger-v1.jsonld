@@ -30,6 +30,7 @@
     "ProofOfWork2016": "wl:ProofOfWork2016",
     "RsaSigningKey2018": "sec:RsaSigningKey2018",
     "RsaSignature2018": "sec:RsaSignature2018",
+    "SignatureValidator2017": "wl:SignatureValidator2017",
     "SequentialList": "wl:SequentialList",
     "UnilateralConsensus2017": "wl:UnilateralConsensus2017",
     "WebLedgerConfiguration": "wl:WebLedgerConfiguration",
