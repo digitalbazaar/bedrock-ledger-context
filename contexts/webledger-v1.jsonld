@@ -57,7 +57,6 @@
     "event": {"@id": "wl:event", "@type": "@id", "@container": ["@graph", "@set"]},
     "eventHash": "wl:eventHash",
     "expires": {"@id": "sec:expiration", "@type": "xsd:dateTime"},
-    "input": {"@id": "wl:input", "@type": "@id", "@container": ["@graph", "@set"]},
     "jws": "sec:jws",
     "label": "rdfs:label",
     "ledger": {"@id": "wl:ledger", "@type": "@id"},
