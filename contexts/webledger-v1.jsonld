@@ -90,7 +90,6 @@
     "signature": "sec:signature",
     "signatureAlgorithm": "sec:signatureAlgorithm",
     "signatureValue": "sec:signatureValue",
-    "supportedEventType": "wl:supportedEventType",
     "treeHash": "wl:treeHash",
     "validatorFilter": {"@id": "wl:validatorFilter", "@type": "@id"},
     "validatorFilterByType": {"@id": "wl:validatorFilterType", "@type": "@vocab"},
