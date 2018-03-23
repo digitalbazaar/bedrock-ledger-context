@@ -48,6 +48,7 @@
     "capability": {"@id": "sec:capability", "@type": "@id"},
     "comment": "rdfs:comment",
     "consensusMethod": {"@id": "wl:consensusMethod", "@type": "@vocab"},
+    "consensusProofHash": {"@id": "wl:consensusProofHash", "@container": "@set"},
     "created": {"@id": "dc:created", "@type": "xsd:dateTime"},
     "creator": {"@id": "dc:creator", "@type": "@id"},
     "description": "schema:description",
