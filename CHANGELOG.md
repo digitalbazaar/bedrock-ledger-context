@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 2.0.0 - 2018-09-19
+
+### Added
+- Add ocap terms.
+
 ## 1.1.1 - 2018-06-07
 
 ### Added
