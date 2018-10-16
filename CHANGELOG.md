@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 3.0.0 - 2018-10-16
+
+### Changed
+- **BREAKING** Remove `@container` from `elector` definition.
+
 ## 2.0.0 - 2018-09-19
 
 ### Added
