@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 4.0.0 - 2018-11-05
+
+### Changed
+- **BREAKING** Add Continuity2017 elector terms.
+
 ## 3.0.0 - 2018-10-16
 
 ### Changed
