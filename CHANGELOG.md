@@ -1,5 +1,11 @@
 # bedrock-ledger-context ChangeLog
 
+## 5.0.0 - TBD
+
+### Changed
+- **BREAKING** Remove Continuity2017RecoveryElector.
+- **BREAKING** Add maximumElectorCount.
+
 ## 4.0.0 - 2018-11-05
 
 ### Changed
