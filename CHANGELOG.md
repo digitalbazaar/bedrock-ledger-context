@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-## 5.0.0 - TBD
+## 5.0.0 - 2018-11-06
 
 ### Changed
 - **BREAKING** Remove Continuity2017RecoveryElector.
