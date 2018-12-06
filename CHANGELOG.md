@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-## 6.0.0 - TBD
+## 6.0.0 - 2018-12-06
 
 ### Changed
 - **BREAKING** Use web-ledger-context@1.
