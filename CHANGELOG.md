@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 9.0.0 - 2019-01-02
+
+### Changed
+- **BREAKING** Update security-v2 context.
+
 ## 8.0.0 - 2018-12-21
 
 ### Changed
