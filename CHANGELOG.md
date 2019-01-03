@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 10.0.0 - 2019-01-03
+
+### Changed
+- **BREAKING** Use web-ledger-context@4.
+
 ## 9.0.0 - 2019-01-02
 
 ### Changed
