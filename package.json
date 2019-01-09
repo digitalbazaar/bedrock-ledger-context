@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-context",
-  "version": "10.1.0",
+  "version": "10.1.1-0",
   "description": "Bedrock ledger",
   "main": "lib",
   "repository": {
