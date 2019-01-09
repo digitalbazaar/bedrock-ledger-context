@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 10.1.0 - TBD
+
+### Changed
+- Use security-context@1.
+
 ## 10.0.0 - 2019-01-03
 
 ### Changed
