@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 10.2.0 - TBD
+
+### Changed
+- Use json-ld-patch-context@1.
+
 ## 10.1.0 - 2019-01-09
 
 ### Changed
