@@ -1,5 +1,12 @@
 # bedrock-ledger-context ChangeLog
 
+## 12.0.0 - TBD
+
+### Changed
+- **BREAKING**: Use security-context@3.
+- Use json-ld-patch-context@3.
+- Use web-ledger-context@5.
+
 ## 11.0.0 - 2019-01-10
 
 ### Changed
