@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-## 12.0.0 - TBD
+## 12.0.0 - 2019-05-30
 
 ### Changed
 - **BREAKING**: Use security-context@3.
