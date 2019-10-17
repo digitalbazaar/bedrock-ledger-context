@@ -22,13 +22,14 @@
     "web-ledger-context": "^5.0.0"
   },
   "peerDependencies": {
-    "bedrock": "^1.8.0"
+    "bedrock": "^2.0.0",
+    "bedrock-jsonld-document-loader": "^1.0.0"
   },
   "engines": {
     "node": ">=6.3.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^6.0.0",
     "eslint-config-digitalbazaar": "^2.0.0"
   }
 }
