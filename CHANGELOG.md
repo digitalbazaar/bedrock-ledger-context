@@ -1,11 +1,13 @@
 # bedrock-ledger-context ChangeLog
 
-## 13.0.9 - TBD
+## 13.0.0 - 2019-10-21
 
 ### Changed
 - **BREAKING**: Refactor to be compatible with bedrock@2 and
   bedrock-jsonld-document-loader@1.
 - **BREAKING**: Remove obsolete IDENTITY_CONTEXT_V1_URL constant and context.  
+- **BREAKING**: Replace security-context dependency with a
+  bedrock-security-context dependency.
 
 ## 12.0.0 - 2019-05-30
 
