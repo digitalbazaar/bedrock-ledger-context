@@ -2,6 +2,7 @@
   "name": "bedrock-ledger-context",
   "version": "13.0.1-0",
   "description": "Bedrock ledger",
+  "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
   "repository": {
     "type": "git",
@@ -21,7 +22,7 @@
     "web-ledger-context": "^6.0.0"
   },
   "peerDependencies": {
-    "bedrock": "^2.0.0",
+    "bedrock": "2.0.0 - 3.x",
     "bedrock-jsonld-document-loader": "^1.0.0",
     "bedrock-security-context": "^2.0.0"
   },
