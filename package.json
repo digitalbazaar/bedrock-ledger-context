@@ -24,7 +24,7 @@
   "peerDependencies": {
     "bedrock": "2.0.0 - 3.x",
     "bedrock-jsonld-document-loader": "^1.0.0",
-    "bedrock-security-context": "^2.0.0"
+    "bedrock-security-context": "^3.0.0"
   },
   "engines": {
     "node": ">=6.3.0"
