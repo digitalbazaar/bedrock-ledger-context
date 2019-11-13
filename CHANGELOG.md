@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 14.0.1 - 2019-11-13
+
+## Changed
+- Set peer dependency bedrock-security-context@3.
+
 ## 14.0.0 - 2019-11-12
 
 ### Changed
