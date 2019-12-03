@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-context",
   "dependencies": {
-    "json-ld-patch-context": "^3.0.0",
-    "web-ledger-context": "^6.0.0"
+    "json-ld-patch-context": "^4.0.0",
+    "web-ledger-context": "^7.0.0"
   },
   "peerDependencies": {
     "bedrock": "2.0.0 - 3.x",
