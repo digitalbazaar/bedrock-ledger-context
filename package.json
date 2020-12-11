@@ -19,10 +19,10 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-context",
   "dependencies": {
     "json-ld-patch-context": "^4.0.0",
-    "web-ledger-context": "^7.0.0"
+    "web-ledger-context": "^8.0.0"
   },
   "peerDependencies": {
-    "bedrock": "2.0.0 - 3.x",
+    "bedrock": "2.0.0 - 4.x",
     "bedrock-jsonld-document-loader": "^1.0.0",
     "bedrock-security-context": "^3.0.0"
   },
