@@ -3,7 +3,7 @@
 ## 18.1.0 - 2021-xx-xx
 
 ### Added
-- Add ed25519-signature-2018-context@1.
+- Add ed25519-signature-2020-context@1.
 
 ## 18.0.0 - 2021-03-09
 

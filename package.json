@@ -25,7 +25,7 @@
     "bedrock": "2.0.0 - 4.x",
     "bedrock-jsonld-document-loader": "^1.0.0",
     "bedrock-security-context": "^3.0.0",
-    "ed25519-signature-2018-context": "^1.1.0"
+    "ed25519-signature-2020-context": "^1.1.0"
   },
   "engines": {
     "node": ">=6.3.0"
