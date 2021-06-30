@@ -4,6 +4,7 @@
 
 ### Added
 - Add ed25519-signature-2020-context@1.
+- Add x25519-key-agreement-2020-context@1.
 
 ## 18.0.0 - 2021-03-09
 
