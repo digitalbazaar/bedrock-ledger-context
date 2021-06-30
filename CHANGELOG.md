@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-## 19.0.0 - 2021-xx-xx
+## 18.1.0 - 2021-06-30
 
 ### Added
 - Add ed25519-signature-2020-context@1.
