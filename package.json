@@ -18,15 +18,15 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-context",
   "dependencies": {
+    "ed25519-signature-2020-context": "^1.1.0",
     "json-ld-patch-context": "^4.0.0",
-    "web-ledger-context": "^10.0.0"
+    "web-ledger-context": "^10.0.0",
+    "x25519-key-agreement-2020-context": "^1.0.0"
   },
   "peerDependencies": {
     "bedrock": "2.0.0 - 4.x",
     "bedrock-jsonld-document-loader": "^1.0.0",
-    "bedrock-security-context": "^3.0.0",
-    "ed25519-signature-2020-context": "^1.1.0",
-    "x25519-key-agreement-2020-context": "^1.0.0"
+    "bedrock-security-context": "^3.0.0"
   },
   "engines": {
     "node": ">=6.3.0"
