@@ -1,5 +1,12 @@
 # bedrock-ledger-context ChangeLog
 
+## 18.1.1 - TBD
+
+### Fixed
+- Make context modules regular dependencies:
+  - `ed25519-signature-2020-context@1`
+  - `x25519-key-agreement-2020-context@1`
+
 ## 18.1.0 - 2021-06-30
 
 ### Added
