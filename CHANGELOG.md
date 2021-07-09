@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-## 18.1.1 - TBD
+## 18.1.1 - 2021-07-09
 
 ### Fixed
 - Make context modules regular dependencies:
