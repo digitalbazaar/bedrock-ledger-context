@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-context",
-  "version": "18.1.2-0",
+  "version": "19.0.0",
   "description": "Bedrock ledger",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
