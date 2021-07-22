@@ -1,9 +1,12 @@
 # bedrock-ledger-context ChangeLog
 
-## 19.1.0 - 2021-07-xx
+## 20.0.0 - 2021-07-21
 
 ### Added
 - Add zcap-context@1.
+
+### Changed
+- **BREAKING**: Use web-ledger-context@12.
 
 ## 19.0.0 - 2021-07-21
 
