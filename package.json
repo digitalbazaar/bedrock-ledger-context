@@ -21,7 +21,8 @@
     "ed25519-signature-2020-context": "^1.1.0",
     "json-ld-patch-context": "^4.0.0",
     "web-ledger-context": "^11.0.0",
-    "x25519-key-agreement-2020-context": "^1.0.0"
+    "x25519-key-agreement-2020-context": "^1.0.0",
+    "zcap-context": "^1.2.1"
   },
   "peerDependencies": {
     "bedrock": "2.0.0 - 4.x",
