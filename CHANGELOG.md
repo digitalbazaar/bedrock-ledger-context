@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 20.0.1 - 2021-07-21
+
+### Changed
+- Fix web-ledger-context@12 in package.json.
+
 ## 20.0.0 - 2021-07-21
 
 ### Added
