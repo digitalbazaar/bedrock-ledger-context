@@ -27,10 +27,10 @@
   "peerDependencies": {
     "bedrock": "2.0.0 - 4.x",
     "bedrock-jsonld-document-loader": "^1.0.0",
-    "bedrock-security-context": "^3.0.0"
+    "bedrock-security-context": "^4.1.0"
   },
   "engines": {
-    "node": ">=6.3.0"
+    "node": ">=14.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
