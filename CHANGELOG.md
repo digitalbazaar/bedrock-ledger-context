@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+### 21.0.0 - TBD
+
+### Changed
+- **BREAKING**: Set engines.node >=12.0.0.
+
 ## 20.0.1 - 2021-07-21
 
 ### Changed
