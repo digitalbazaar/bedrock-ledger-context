@@ -25,7 +25,7 @@
     "zcap-context": "^1.2.1"
   },
   "peerDependencies": {
-    "bedrock": "2.0.0 - 4.x",
+    "bedrock": "^4.0.0",
     "bedrock-jsonld-document-loader": "^1.0.0",
     "bedrock-security-context": "^4.1.0"
   },
