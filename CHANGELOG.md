@@ -6,6 +6,9 @@
 - **BREAKING**: Set engines.node >=12.0.0.
 - **BREAKING**: Use bedrock-security-context@4.
 
+### Added
+- Setup test.
+
 ## 20.0.1 - 2021-07-21
 
 ### Changed
