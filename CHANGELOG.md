@@ -4,7 +4,7 @@
 
 ### Changed
 - **BREAKING**: Set engines.node >=12.0.0.
-- **BREAKING**: Use bedrock-security-context@4.
+- **BREAKING**: Use bedrock-security-context@5.
 
 ### Added
 - Setup test.
