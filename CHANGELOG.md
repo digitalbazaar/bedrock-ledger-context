@@ -3,7 +3,8 @@
 ### 21.0.1 - 2022-02-xx
 
 ### Fixed
-- Use non-deprecated `@digitalbazaar/zcap-context`.
+- Use non-deprecated `@digitalbazaar/zcap-context`. This package includes
+  the same zcap context as the deprecated package `zcap-context`.
 
 ### 21.0.0 - 2022-01-21
 
