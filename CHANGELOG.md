@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-### 21.0.1 - 2022-02-xx
+### 21.0.1 - 2022-02-08
 
 ### Fixed
 - Use non-deprecated `@digitalbazaar/zcap-context`. This package includes
