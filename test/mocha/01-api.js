@@ -12,7 +12,7 @@ describe('bedrock-ledger-context', () => {
       'web-ledger-context',
       'ed25519-signature-2020-context',
       'x25519-key-agreement-2020-context',
-      'zcap-context',
+      '@digitalbazaar/zcap-context',
     ];
     for(const module of testContextModules) {
       const {contexts, constants: contextConstants} = require(module);
