@@ -1,12 +1,21 @@
 # bedrock-ledger-context ChangeLog
 
-### 21.0.1 - 2022-02-08
+## 21.1.0 - 2022-03-xx
+
+### Changed
+- Update peer deps:
+  - `bedrock@4.5`
+  - `bedrock-jsonld-document-loader@1.3`.
+- Update internals to use esm style and use `esm.js` to
+  transpile to CommonJS.
+
+## 21.0.1 - 2022-02-08
 
 ### Fixed
 - Use non-deprecated `@digitalbazaar/zcap-context`. This package includes
   the same zcap context as the deprecated package `zcap-context`.
 
-### 21.0.0 - 2022-01-21
+## 21.0.0 - 2022-01-21
 
 ### Changed
 - **BREAKING**: Set engines.node >=12.0.0.
