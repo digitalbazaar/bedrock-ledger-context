@@ -1,10 +1,8 @@
 /*!
  * Copyright (c) 2017-2022 Digital Bazaar, Inc. All rights reserved.
  */
-'use strict';
+import * as bedrock from '@bedrock/core';
+import '@bedrock/ledger-context';
+import '@bedrock/test';
 
-const bedrock = require('bedrock');
-require('bedrock-ledger-context');
-
-require('bedrock-test');
 bedrock.start();
