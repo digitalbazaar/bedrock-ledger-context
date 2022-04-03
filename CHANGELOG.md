@@ -1,5 +1,20 @@
 # bedrock-ledger-context ChangeLog
 
+## 22.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Rename package to `@bedrock/ledger-context`.
+- **BREAKING**: Convert to module (ESM).
+- **BREAKING**: Remove default export.
+- **BREAKING**: Require node 14.x.
+
+### Removed
+- **BREAKING**: Remove adding any constants to bedrock config system. If
+  constants are needed, import them from `constants` from the underlying
+  packages.
+- **BREAKING**: Remove test context `https://w3id.org/test/v1`.
+- **BREAKING**: Remove schema.org context `https://schema.org/`.
+
 ## 21.1.0 - 2022-03-28
 
 ### Changed

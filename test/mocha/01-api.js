@@ -1,32 +1,28 @@
 /*!
  * Copyright (c) 2017-2022 Digital Bazaar, Inc. All rights reserved.
  */
-'use strict';
-
-const {documentLoader} = require('bedrock-jsonld-document-loader');
+import {documentLoader} from '@bedrock/jsonld-document-loader';
 
 describe('bedrock-ledger-context', () => {
   it('sets up contexts properly', async () => {
-    const testContextModules = [
+    const testContexts = [
       'json-ld-patch-context',
       'web-ledger-context',
       'ed25519-signature-2020-context',
       'x25519-key-agreement-2020-context',
       '@digitalbazaar/zcap-context',
     ];
-    for(const module of testContextModules) {
-      const {contexts, constants: contextConstants} = require(module);
-
-      for(const c in contextConstants) {
-        if(!c.includes('URL')) {
-          continue;
-        }
+    for(const testContext of testContexts) {
+      const {contexts} = await import(testContext);
+      for(const [contextUrl, context] of contexts) {
         // ensure that context documents are defined
-        const result = await documentLoader(contextConstants[c]);
+        const result = await documentLoader(contextUrl);
         should.exist(result);
         should.exist(result.document);
         result.document.should.be.an('object');
-        result.document.should.eql(contexts.get(contextConstants[c]));
+        result.document.should.eql(context);
+        should.exist(result.tag);
+        result.tag.should.eql('static');
       }
     }
   });
