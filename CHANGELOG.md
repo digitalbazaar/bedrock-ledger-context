@@ -1,5 +1,13 @@
 # bedrock-ledger-context ChangeLog
 
+## 23.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/core@6`
+  - `@bedrock/jsonld-document-loader@3`
+  - `@bedrock/security-context@7`.
+
 ## 22.0.0 - 2022-04-03
 
 ### Changed
