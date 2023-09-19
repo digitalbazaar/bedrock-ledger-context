@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-## 24.0.0 - 2023-09-xx
+## 24.0.0 - 2023-09-19
 
 ### Changed
 - **BREAKING**: Drop support for Node.js < 18.
