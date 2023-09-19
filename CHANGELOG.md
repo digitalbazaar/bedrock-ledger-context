@@ -1,5 +1,12 @@
 # bedrock-ledger-context ChangeLog
 
+## 24.0.0 - 2023-09-xx
+
+### Changed
+- **BREAKING**: Drop support for Node.js < 18.
+- **BREAKING**: Update peer deps:
+  - Use `@bedrock/jsonld-document-loader@4`.
+
 ## 23.0.0 - 2022-04-29
 
 ### Changed
