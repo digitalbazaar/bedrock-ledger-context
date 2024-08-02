@@ -32,9 +32,8 @@
     "x25519-key-agreement-2020-context": "^1.0.0"
   },
   "peerDependencies": {
-    "@bedrock/core": "^6.0.0",
-    "@bedrock/jsonld-document-loader": "^4.0.0",
-    "@bedrock/security-context": "^8.0.0"
+    "@bedrock/jsonld-document-loader": "^5.1.0",
+    "@bedrock/security-context": "^9.0.0"
   },
   "engines": {
     "node": ">=18"
