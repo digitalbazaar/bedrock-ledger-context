@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/ledger-context",
-  "version": "24.0.1-0",
+  "version": "25.0.0",
   "type": "module",
   "description": "Ledger contexts for Bedrock apps",
   "license": "SEE LICENSE IN LICENSE.md",
