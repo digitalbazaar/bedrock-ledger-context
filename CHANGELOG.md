@@ -8,6 +8,7 @@
   - `@bedrock/security-context@9`.
 - Remove `@bedrock/core` peer dep.
 - Update test dependencies.
+- Use `addDocuments`.
 
 ### Fixed
 - Add package `files` field.
