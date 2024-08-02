@@ -1,6 +1,6 @@
 # bedrock-ledger-context ChangeLog
 
-## 25.0.0 - 2024-08-xx
+## 25.0.0 - 2024-08-01
 
 ### Changed
 - **BREAKING**: Update peer deps:
