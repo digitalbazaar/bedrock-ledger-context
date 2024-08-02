@@ -8,6 +8,9 @@
   "files": [
     "lib/**/*.js"
   ],
+  "scripts": {
+    "lint": "eslint --ext .cjs,.js ."
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/digitalbazaar/bedrock-ledger-context.git"
@@ -21,9 +24,6 @@
     "url": "https://github.com/digitalbazaar/bedrock-ledger-context/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-context",
-  "scripts": {
-    "lint": "eslint ."
-  },
   "dependencies": {
     "@digitalbazaar/zcap-context": "^2.0.0",
     "ed25519-signature-2020-context": "^1.1.0",
@@ -40,9 +40,9 @@
     "node": ">=18"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-digitalbazaar": "^2.8.0",
-    "eslint-plugin-jsdoc": "^37.9.7",
-    "jsdoc-to-markdown": "^7.1.1"
+    "eslint": "^8.57.0",
+    "eslint-config-digitalbazaar": "^5.2.0",
+    "eslint-plugin-jsdoc": "^48.10.2",
+    "eslint-plugin-unicorn": "^55.0.0"
   }
 }
