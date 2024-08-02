@@ -1,14 +1,11 @@
-*.py[co]
+*.log
 *.sw[nop]
 *~
-.cache
 .project
 .settings
 .vscode
+.nyc_output
 TAGS
-bower_components
 coverage
 node_modules
-npm-debug.log
 reports
-.nyc_output
