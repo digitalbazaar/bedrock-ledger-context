@@ -1,5 +1,10 @@
 # bedrock-ledger-context ChangeLog
 
+## 25.0.0 - 2024-08-xx
+
+### Fixed
+- Add package `files` field.
+
 ## 24.0.0 - 2023-09-19
 
 ### Changed
